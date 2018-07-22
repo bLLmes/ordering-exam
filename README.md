@@ -1,5 +1,5 @@
 # ordering-exam
-This was the exam i take when i apply as a Web Developer in a company.
+This was the exam i take when i apply as a Web Developer in a company and i use php for this problem.
 
 This is the sample input for the ordering system.
 -------------------------------------------------------------------------------------
